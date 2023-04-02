@@ -1,7 +1,7 @@
 # Projeto Carrossel The Walking Dead
 
 ## Desafio 
-Desafio foi fazer um carrossel de funcionalidade para que cada click no botão rodasse outra imagem
+Desafio foi fazer um carrossel de funcionalidade pra que cada click no botão rodasse outra imagem
 
 ---
 
