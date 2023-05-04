@@ -1,7 +1,6 @@
 # Projeto Carrossel The Walking Dead
 
-## Desafio 
-Desafio foi fazer um carrossel de funcionalidade para que cada click no botão rodasse outra imagem
+Um projeto carrossel, foi usado Tags Semânticas do HTML e propriedades avançadas do CSS com JavaScript que a funcionalidade é que a cada click no botão aparecesse outra imagem da série.
 
 ---
 
@@ -19,3 +18,5 @@ Desafio foi fazer um carrossel de funcionalidade para que cada click no botão r
 - HTML
 - CSS
 - JavaScript
+- Git
+- VSCode
