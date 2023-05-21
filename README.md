@@ -7,9 +7,6 @@ Um projeto carrossel, foi usado Tags Semânticas do HTML e propriedades avançad
 ## Funcionalidade
 [<img src="./design/interacaobotao.gif" alt="funcionalidade do botao">]
 
-## Adaptado ao computador
-[<img src="./design/desktop.png">]
-
 ## Adatapado Mobile
 [<img src="./design/mobile.png">]
 
